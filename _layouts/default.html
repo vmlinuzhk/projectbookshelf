@@ -25,7 +25,7 @@
 
         <p class="view"><h3>Most recent books</h3>
         <ul>
-        {% for book in site.data.books limit:2 %}
+        {% for book in site.data.books reversed limit:2 %}
         <li><a href="/books/{{ book.title | slugify: "latin"}}">{{ book.title }}</a></li>
         {% endfor %}
         </ul>
