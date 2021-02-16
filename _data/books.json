@@ -1,0 +1,20 @@
+[
+        {
+                'title': 'Anathem',
+                'author': 'Neal Stephenson',
+                'review': 'Very long, pretty good',
+                'notes': '',
+        },
+        {
+                'title': 'Thud!',
+                'author': 'Terry Pratchett',
+                'review': 'Terry gets into racial politics, very good',
+                'notes': '',
+        },
+        {
+                'title': 'Imperium',
+                'author': 'Robert Harris',
+                'review': '',
+                'notes': 'Not on bookshelf, or out of order',
+        }
+]
