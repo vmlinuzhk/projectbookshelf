@@ -23,7 +23,14 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p class="view"><a href="/books">Book list</a></p>
+        <p class="view"><h3>Most recent books</h3>
+        <ul>
+        {% for book in site.data.books limit:2 %}
+        <li><a href="/books/{{ book.title | slugify: "latin"}}">{{ book.title }}</a></li>
+        {% endfor %}
+        </ul>
+        <a href="/books">Full book list</a></p>
+
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
