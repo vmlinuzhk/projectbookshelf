@@ -4,17 +4,27 @@
                 'author': 'Neal Stephenson',
                 'review': 'Very long, pretty good',
                 'notes': '',
+                'ease': 2
         },
         {
                 'title': 'Thud!',
                 'author': 'Terry Pratchett',
                 'review': 'Terry gets into racial politics, very good',
                 'notes': '',
+                'ease': 8
         },
         {
                 'title': 'Imperium',
                 'author': 'Robert Harris',
                 'review': '',
-                'notes': 'Not on bookshelf, or out of order',
+                'notes': 'Not on bookshelf, or out of order, part 1 of trilogy',
+                'ease': 6
+        },
+        {
+                'title': 'Driving Over Lemons',
+                'author': 'Chris Stewart',
+                'review': '',
+                'notes': 'Not on bookshelf, or out of order, part 1 of trilogy',
+                'ease': 0
         }
 ]
