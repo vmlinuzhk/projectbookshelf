@@ -31,8 +31,27 @@
                 'author': 'Chris Stewart',
                 'review': '',
                 'notes': 'Not on bookshelf, or out of order, part 1 of trilogy',
-                'ease': 0,
+                'ease': 8,
                 'started': '2021-03-05',
-                'finished': ''
+                'finished': '2021-03-08'
+        },
+        {
+                'title': 'Even Cowgirls Get The Blues',
+                'author': 'Tom Robbins',
+                'review': '',
+                'notes': 'No idea how this got on my bookshelf! First book on this list that I haven't read before.',
+                'ease': 3,
+                'started': '2021-03-10',
+                'finished': '2021-04-18'
+        },
+        {
+                'title': 'Birdsong',
+                'author': 'Sebasian Faulks',
+                'review': '',
+                'notes': 'Was recommended this at some point, never opened it',
+                'ease': 0,
+                'started': '2021-04-19',
+                'ended': ''
         }
+
 ]
