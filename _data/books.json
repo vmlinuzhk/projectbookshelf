@@ -1,59 +1,57 @@
 [
         {
-                'title': 'Anathem',
-                'author': 'Neal Stephenson',
-                'review': 'Very long, pretty good',
-                'notes': '',
-                'ease': 2,
-                'started': '',
-                'finished': ''
+                "title": "Anathem",
+                "author": "Neal Stephenson",
+                "review": "Very long, pretty good",
+                "notes": "",
+                "ease": 2,
+                "started": "",
+                "finished": ""
         },
         {
-                'title': 'Thud!',
-                'author': 'Terry Pratchett',
-                'review': 'Terry gets into racial politics, very good',
-                'notes': '',
-                'ease': 8,
-                'started': '',
-                'finished': ''
+                "title": "Thud!",
+                "author": "Terry Pratchett",
+                "review": "Terry gets into racial politics, very good",
+                "notes": "",
+                "ease": 8,
+                "started": "",
+                "finished": ""
         },
         {
-                'title': 'Imperium',
-                'author': 'Robert Harris',
-                'review': '',
-                'notes': 'Not on bookshelf, or out of order, part 1 of trilogy',
-                'ease': 6,
-                'started': '',
-                'finished': '2021-03-01'
+                "title": "Imperium",
+                "author": "Robert Harris",
+                "review": "",
+                "notes": "Not on bookshelf, or out of order, part 1 of trilogy",
+                "ease": 6,
+                "started": "",
+                "finished": "2021-03-01"
         },
         {
-                'title': 'Driving Over Lemons',
-                'author': 'Chris Stewart',
-                'review': '',
-                'notes': 'Not on bookshelf, or out of order, part 1 of trilogy',
-                'ease': 8,
-                'started': '2021-03-05',
-                'finished': '2021-03-08'
-        },
-
-        {
-
-                'title': 'Even Cowgirls Get The Blues',
-                'author': 'Tom Robbins',
-                'review': '',
-                'notes': 'No idea how this got on my bookshelf! First book on this list that I haven\'t read before.',
-                'ease': 3,
-                'started': '2021-03-10',
-                'finished': '2021-04-18'
+                "title": "Driving Over Lemons",
+                "author": "Chris Stewart",
+                "review": "",
+                "notes": "Not on bookshelf, or out of order, part 1 of trilogy",
+                "ease": 8,
+                "started": "2021-03-05",
+                "finished": "2021-03-08"
         },
         {
-                'title': 'Birdsong',
-                'author': 'Sebasian Faulks',
-                'review': '',
-                'notes': 'Was recommended this at some point, never opened it',
-                'ease': 0,
-                'started': '2021-04-19',
-                'ended': ''
+                "title": "Even Cowgirls Get The Blues",
+                "author": "Tom Robbins",
+                "review": "",
+                "notes": "No idea how this got on my bookshelf! First book on this list that I haven't read before.",
+                "ease": 3,
+                "started": "2021-03-10",
+                "finished": "2021-04-18"
+        },
+        {
+                "title": "Birdsong",
+                "author": "Sebasian Faulks",
+                "review": "",
+                "notes": "Was recommended this at some point, never opened it",
+                "ease": 0,
+                "started": "2021-04-19",
+                "finished": ""
         }
 
 ]
